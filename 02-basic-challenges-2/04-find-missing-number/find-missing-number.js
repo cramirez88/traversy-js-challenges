@@ -1,5 +1,5 @@
 function findMissingNumber(numArr) {
-  if(numArr === []) {
+  if(numArr.length === 0) {
     return 1
   }
   if(!numArr){
