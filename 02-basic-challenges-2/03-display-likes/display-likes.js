@@ -1,3 +1,3 @@
-function displayLikes() {}
+function displayLikes(nameArray) {}
 
 module.exports = displayLikes;
